@@ -3,4 +3,4 @@ Command:
 `mvn compile; mvn exec:java -Dexec.mainClass="com.example.App"`
 
 Payload:
-`\0/etc/passwd'
+`\0/etc/passwd`
